@@ -1,6 +1,6 @@
 # PEFT paper lists
 
-We select the 100+ most influential GNN papers and 100 recent SOTA GNN papers with 10 different topics.
+We select the 100+ most influential PEFT papers.
 
 ## [Content](#content)
 
