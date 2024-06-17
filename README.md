@@ -54,18 +54,7 @@
 9. **SIGN: Scalable Inception Graph Neural Networks**. Fabrizio Frasca, Emanuele Rossi, Davide Eynard, Ben Chamberlain, Michael Bronstein, Federico Monti. [paper](https://arxiv.org/abs/2004.11198)
 10. **Simplifying Graph Convolutional Networks**. Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger. ICML'19. [paper](https://arxiv.org/abs/1902.07153)
 
-### Recent SOTA
 
-1. **GraphSAINT: Graph Sampling Based Inductive Learning Method**. Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna. ICLR'20. [paper](https://arxiv.org/abs/1907.04931)
-2. **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**. Matthias Fey, Jan E. Lenssen, Frank Weichert, Jure Leskovec. ICML'21. [paper](https://arxiv.org/abs/2106.05609)
-3. **Deep Graph Neural Networks with Shallow Subgraph Samplers**. Hanqing Zeng, Muhan Zhang, Yinglong Xia, Ajitesh Srivastava, Andrey Malevich, Rajgopal Kannan, Viktor Prasanna, Long Jin, Ren Chen. [paper](https://arxiv.org/abs/2012.01380)
-4. **Scalable Graph Neural Networks via Bidirectional Propagation**. Ming Chen, Zhewei Wei, Bolin Ding, Yaliang Li, Ye Yuan, Xiaoyong Du, Ji-Rong Wen. NeuIPS'20. [paper](https://arxiv.org/abs/2010.15421)
-5. **A Unified Lottery Ticket Hypothesis for Graph Neural Networks**. Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang. ICML'21. [paper](https://arxiv.org/abs/2102.06790).
-6. **Scaling Graph Neural Networks with Approximate PageRank**. Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann. KDD'20. [paper](https://arxiv.org/abs/2007.01570)
-7. **Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training**. Chuxiong Sun, Hongming Gu, Jie Hu. [paper](https://arxiv.org/abs/2104.09376)
-8. **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**. Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. KDD'19. [paper](https://arxiv.org/abs/1905.07953)
-9. **GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding**. Chenhui Deng, Zhiqiang Zhao, Yongyu Wang, Zhiru Zhang, Zhuo Feng. ICLR'20. [paper](https://arxiv.org/abs/1910.02370)
-10. **Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs**. 	Jialin Dong, Da Zheng, Lin F. Yang, Geroge Karypis. KDD'21. [paper](https://arxiv.org/abs/2106.06150)
 
 
 ## [Reparameters](#content)
