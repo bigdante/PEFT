@@ -21,8 +21,9 @@
 <!-- ** **. . '18. [paper]() -->
 ## [Addictive](#content)
 
-### NLP
+## NLP
 
+### Adapter
 1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby,Andrei Giurgiu,Stanislaw Jastrzebski,Bruna Morrone,Quentin de Laroussilhe,Andrea Gesmundo,Mona Attariyan,Sylvain Gelly. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
 2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang,Madotto Andrea,Fung Pascale. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
 3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. Intelligent Systems In Accounting,
@@ -30,11 +31,11 @@
 4. **Counter-Interference Adapter for Multilingual Machine Translation**.Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li.EMNLP'2021.[paper](https://aminer.cn/pub/619799ec91e011c8223730c6/counter-interference-adapter-for-multilingual-machine-translation)
 5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych.EMNLP'2021.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
 6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.Hongyu Zhao, Hao Tan, Hongyuan Mei.EMNLP'2022.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
-### CV
+## CV
 
-### VLM
+## VLM
 
-### Gragh
+## Gragh
 
 
 
@@ -90,27 +91,4 @@
 
 ### Most Influential
 
-1. **Representation Learning on Graphs with Jumping Knowledge Networks.** *Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka.* ICML 2018. [paper](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf)
-2. **Deeper insights into graph convolutional networks for semi-supervised learning.** *Qimai Li, Zhichao Han, Xiao-ming Wu.* AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16098)
-3. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank.** *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://openreview.net/forum?id=H1gL-2A9Ym)
-4. **DeepGCNs: Can GCNs Go as Deep as CNNs?** *Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.* ICCV 2019. [paper](https://arxiv.org/abs/1904.03751)
-5. **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks.** *Difan Zou, Ziniu Hu, Yewen Wang, Song Jiang, Yizhou Sun, Quanquan Gu.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-6006)
-6. **DeeperGCN: All You Need to Train Deeper GCNs.** *Guohao Li, Chenxin Xiong, Ali Thabet, Bernard Ghanem.* arXiv 2020. [paper](https://arxiv.org/abs/2006.07739)
-7. **PairNorm: Tackling Oversmoothing in GNNs.** *Lingxiao Zhao, Leman Akoglu.* ICLR 2020. [paper](https://openreview.net/forum?id=rkecl1rtwB)
-8. **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification.** *Yu Rong, Wenbing Huang, Tingyang Xu, Junzhou Huang.* ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx1qkrKPr)
-9. **Simple and Deep Graph Convolutional Networks.** *Ming Chen, Zhewei Wei, Zengfeng Huang, Bolin Ding, Yaliang Li.* ICML 2020. [paper](http://proceedings.mlr.press/v119/chen20v.html)
-10. **Towards Deeper Graph Neural Networks.** *Meng Liu, Hongyang Gao, and Shuiwang Ji.* KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403076)
-
-### Recent SOTA
-
-1. **Towards Deeper Graph Neural Networks with Differentiable Group Normalization.** *Kaixiong Zhou, Xiao Huang, Yuening Li, Daochen Zha, Rui Chen, Xia Hu.* NeurIPS 2020. [paper](https://papers.nips.cc//paper/2020/hash/33dd6dba1d56e826aac1cbf23cdcca87-Abstract.html)
-2. **Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks.** *Yimeng Min, Frederik Wenkel, Guy Wolf.* NeurIPS 2020. [paper](https://papers.nips.cc//paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html)
-3. **Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks.** *Kenta Oono, Taiji Suzuki.* NeurIPS 2020. [paper](https://papers.nips.cc//paper/2020/hash/dab49080d80c724aad5ebf158d63df41-Abstract.html)
-4. **On the Bottleneck of Graph Neural Networks and its Practical Implications.** *Uri Alon, Eran Yahav.* ICLR 2021. [paper](https://openreview.net/forum?id=i80OPhOCVH2)
-5. **Simple Spectral Graph Convolution.** *Hao Zhu, Piotr Koniusz.* ICLR 2021. [paper](https://openreview.net/forum?id=CYO5T-YjWZV)
-6. **Training Graph Neural Networks with 1000 Layers.** *Guohao Li, Matthias Müller, Bernard Ghanem, Vladlen Koltun.* ICML 2021. [paper](http://proceedings.mlr.press/v139/li21o.html)
-7. **Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth.** *Keyulu Xu, Mozhi Zhang, Stefanie Jegelka, Kenji Kawaguchi.* ICML 2021. [paper](http://proceedings.mlr.press/v139/xu21k.html)
-8. **GRAND: Graph Neural Diffusion.** *Ben Chamberlain, James Rowbottom, Maria I Gorinova, Michael Bronstein, Stefan Webb, Emanuele Rossi.* ICML 2021. [paper](http://proceedings.mlr.press/v139/chamberlain21a.html)
-9. **Directional Graph Networks.** *Dominique Beani, Saro Passaro, Vincent Létourneau, Will Hamilton, Gabriele Corso, Pietro Lió.* ICML 2021. [paper](http://proceedings.mlr.press/v139/beani21a.html)
-10. **Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies.** *Denis Lukovnikov, Asja Fischer.* ICML 2021. [paper](http://proceedings.mlr.press/v139/lukovnikov21a.html)
 
