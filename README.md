@@ -36,6 +36,8 @@
 6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.*Hongyu Zhao, Hao Tan, Hongyuan Mei*.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
 7. **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks**.*Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/60c2da8091e0117e30ca2817/parameter-efficient-multi-task-fine-tuning-for-transformers-via-shared-hypernetworks)
 8. **BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer**._Marinela Parovic, Goran Glavas, Ivan Vulic, Anna Korhonen_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/634d80f190e50fcafd4ef432/bad-x-bilingual-adapters-improve-zero-shot-cross-lingual-transfer)
+9. **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**. _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/628ef0485aee126c0f82d92e/AdaMix:%20Mixture-of-Adaptations%20for%20Parameter-efficient%20Model%20Tuning)
+10. **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks**. _Chin-Lun Fu, Zih-Ching Chen, Yun-Ru Lee, Hung-yi Lee_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/62708f615aee126c0fa69008/adapterbias-parameter-efficient-token-dependent-representation-shift-for-adapters-in-nlp-tasks)
 ### CV
 
 ### VLM
@@ -49,16 +51,7 @@
 
 ### Most Influential
 
-1. **Inductive Representation Learning on Large Graphs**. William L. Hamilton, Rex Ying, Jure Leskovec. NeuIPS'17. [paper](https://arxiv.org/abs/1706.02216)
-2. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling**. Jie Chen, Tengfei Ma, Cao Xiao. ICLR'18. [paper](https://arxiv.org/abs/1801.10247)
-3. **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks**. Wei-Lin Chiang, Xuanqing Liu, Si Si, Yang Li, Samy Bengio, Cho-Jui Hsieh. KDD'19. [paper](https://arxiv.org/abs/1905.07953)
-4. **GraphSAINT: Graph Sampling Based Inductive Learning Method**. Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna. ICLR'20. [paper](https://arxiv.org/abs/1907.04931)
-5. **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**. Matthias Fey, Jan E. Lenssen, Frank Weichert, Jure Leskovec. ICML'21. [paper](https://arxiv.org/abs/2106.05609)
-6. **Scaling Graph Neural Networks with Approximate PageRank**. Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann. KDD'20. [paper](https://arxiv.org/abs/2007.01570)
-7. **Stochastic training of graph convolutional networks with variance reduction**. *Jianfei Chen, Jun Zhu, and Le Song.* ICML'18. [paper](https://arxiv.org/abs/1710.10568)
-8. **Adaptive sampling towards fast graph representation learning**. Wenbing Huang, Tong Zhang, Yu Rong, and Junzhou Huang. NeuIPS'18. [paper](https://papers.nips.cc/paper/2018/file/01eee509ee2f68dc6014898c309e86bf-Paper.pdf)
-9. **SIGN: Scalable Inception Graph Neural Networks**. Fabrizio Frasca, Emanuele Rossi, Davide Eynard, Ben Chamberlain, Michael Bronstein, Federico Monti. [paper](https://arxiv.org/abs/2004.11198)
-10. **Simplifying Graph Convolutional Networks**. Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger. ICML'19. [paper](https://arxiv.org/abs/1902.07153)
+
 
 
 
@@ -67,29 +60,11 @@
 
 ### Most Influential
 
-1. **Strategies for pre-training graph neural networks.** *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande,  Leskovec Jure.* ICLR 2020. [paper](https://openreview.net/forum?id=HJlWWJSFDH)
-2. **Deep graph infomax.** *Velikovi Petar, Fedus William, Hamilton William L, Li Pietro, Bengio Yoshua, Hjelm R Devon.* ICLR 2019. [paper](https://arxiv.org/abs/1809.10341)
-3. **Inductive representation learning on large graphs.** *Hamilton Will, Zhitao Ying, Leskovec Jure.* NeurIPS 2017. [paper](https://arxiv.org/abs/1706.02216)
-4. **Infograph: Unsupervised and semi-supervised graph-level representation learning via mutual information maximization.** *Sun Fan-Yun, Hoffmann Jordan, Verma Vikas, Tang Jian.* ICLR 2020. [paper](https://arxiv.org/pdf/1908.01000.pdf)
-5. **GCC: Graph contrastive coding for graph neural network pre-training.** *Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang.* KDD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403168)
-6. **Contrastive multi-view representation learning on graphs.** *Hassani Kaveh, Khasahmadi Amir Hosein.* ICML 2020. [paper](https://arxiv.org/abs/2006.05582)
-7. **Graph contrastive learning with augmentations.** *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen.* NeurIPS 2020. [paper](https://arxiv.org/abs/2010.13902)
-8. **GPT-GNN: Generative pre-training of graph neural networks.** *Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun.* KDD 2020. [paper](https://arxiv.org/abs/2006.15437)
-9. **When does self-supervision help graph convolutional networks?.** *Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen.* ICML 2020. [paper](https://arxiv.org/abs/2006.09136)
-10. **Deep graph contrastive representation learning.** *Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang.* GRL+@ICML 2020. [paper](https://arxiv.org/abs/2006.04131)
+
 
 ### Recent SOTA
 
-1. **Graph Contrastive Learning Automated.** *Yuning You, Tianlong Chen, Yang Shen, Zhangyang Wang.* ICML 2021. [paper](https://arxiv.org/abs/2106.07594)
-2. **Graph contrastive learning with adaptive augmentation.** *Yanqiao Zhu, Yichen Xu, Feng Yu, Qiang Liu, Shu Wu, Liang Wang.* WWW 2021. [paper](https://arxiv.org/abs/2010.14945)
-3. **Self-supervised Graph-level Representation Learning with Local and Global Structure.** *Minghao Xu, Hang Wang, Bingbing Ni, Hongyu Guo, Jian Tang.* ICML 2021. [paper](https://arxiv.org/pdf/2106.04113)
-4. **Negative Sampling Strategies for Contrastive Self-Supervised Learning of Graph Representations.** *Hakim Hafidi, Mounir Ghogho, Philippe Ciblat, Ananthram Swami.* Signal Processing 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0165168421003479)
-5. **Learning to pre-train graph neural networks.** *Yuanfu Lu, Xunqiang Jiang, Yuan Fang, Chuan Shi.* AAAI 2021. [paper](http://shichuan.org/doc/101.pdf)
-6. **Graph representation learning via graphical mutual information maximization.** *Zhen Peng, Wenbing Huang, Minnan Luo, Qinghua Zheng, Yu Rong, Tingyang Xu, Junzhou Huang.* WWW 2020. [paper](https://arxiv.org/abs/2002.01169)
-7. **Structure-Aware Hard Negative Mining for Heterogeneous Graph Contrastive Learning.** *Yanqiao Zhu, Yichen Xu, Hejie Cui, Carl Yang, Qiang Liu, Shu Wu.* arXiv preprint arXiv:2108.13886 2021. [paper](https://arxiv.org/abs/2108.13886)
-8. **Self-supervised graph representation learning via global context prediction.** *Zhen Peng, Yixiang Dong, Minnan Luo, Xiao-Ming Wu, Qinghua Zheng.* arXiv preprint arXiv:2003.01604 2020. [paper](https://arxiv.org/abs/2003.01604)
-9. **CSGNN: Contrastive Self-Supervised Graph Neural Network for Molecular Interaction Prediction.** *Chengshuai Zhao, Shuai Liu, Feng Huang, Shichao Liu, Wen Zhang.* IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0517.pdf)
-10. **Pairwise Half-graph Discrimination: A Simple Graph-level Self-supervised Strategy for Pre-training Graph Neural Networks.** *Pengyong Li, Jun Wang, Ziliang Li, Yixuan Qiao, Xianggen Liu, Fei Ma, Peng Gao, Sen Song, Guotong Xie.* IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0371.pdf)
+
 
 
 ## [Hybrid](#content)
