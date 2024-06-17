@@ -25,7 +25,8 @@
 
 1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby,Andrei Giurgiu,Stanislaw Jastrzebski,Bruna Morrone,Quentin de Laroussilhe,Andrea Gesmundo,Mona Attariyan,Sylvain Gelly. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
 2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang,Madotto Andrea,Fung Pascale. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
-3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. '2020. [paper]()
+3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. Intelligent Systems In Accounting,
+ Finance &Management'2020. [paper](https://www.aminer.cn/pub/5eafe7e091e01198d3986542/mad-x-an-adapter-based-framework-for-multi-task-cross-lingual-transfer)
 ### CV
 
 ### VLM
