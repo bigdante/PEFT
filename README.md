@@ -30,7 +30,7 @@
 3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. *Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian*. Intelligent Systems In Accounting,
  Finance &Management'2020. [paper](https://www.aminer.cn/pub/5eafe7e091e01198d3986542/mad-x-an-adapter-based-framework-for-multi-task-cross-lingual-transfer)
 4. **Counter-Interference Adapter for Multilingual Machine Translation**.*Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li*.EMNLP'2021.[paper](https://aminer.cn/pub/619799ec91e011c8223730c6/counter-interference-adapter-for-multilingual-machine-translation)
-5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.*Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*._EMNLP'2021_.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
+5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.*Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*.EMNLP'2021.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
 6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.*Hongyu Zhao, Hao Tan, Hongyuan Mei*.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
 7. 
 ### CV
