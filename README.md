@@ -19,7 +19,15 @@
 
 ### NLP
 
-1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
+1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby,
+Andrei Giurgiu,
+Stanislaw Jastrzebski,
+Bruna Morrone,
+Quentin de Laroussilhe,
+Andrea Gesmundo,
+Mona Attariyan,
+Sylvain Gelly
+. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
 2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang et al. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
 
 ### CV
