@@ -28,6 +28,7 @@
 3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. Intelligent Systems In Accounting,
  Finance &Management'2020. [paper](https://www.aminer.cn/pub/5eafe7e091e01198d3986542/mad-x-an-adapter-based-framework-for-multi-task-cross-lingual-transfer)
 4. **Counter-Interference Adapter for Multilingual Machine Translation**.Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li.EMNLP'2021.[paper](https://aminer.cn/pub/619799ec91e011c8223730c6/counter-interference-adapter-for-multilingual-machine-translation)
+5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li.EMNLP'2021.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
 ### CV
 
 ### VLM
