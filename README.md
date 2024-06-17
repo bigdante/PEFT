@@ -16,7 +16,7 @@ We select the 100+ most influential PEFT papers.
 
 ### NLP
 
-1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'19. [paper]([https://arxiv.org/abs/1609.02907](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp))
+1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'19. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
 2. **Graph Attention Networks**. Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio. ICLR'18. [paper](https://arxiv.org/abs/1710.10903)
 3. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**. NeuIPS'16. [paper](https://arxiv.org/abs/1606.09375)
 4. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank**. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. ICLR'19. [paper](https://arxiv.org/abs/1810.05997) 
