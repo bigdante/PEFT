@@ -14,9 +14,9 @@ We select the 100+ most influential PEFT papers.
 
 ## [Addictive](#content)
 
-### Most Influential
+### NLP
 
-1. **Semi-Supervised Classification with Graph Convolutional**. Thomas N. Kipf, Max Welling. NeuIPS'17. [paper](https://arxiv.org/abs/1609.02907)
+1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'19. [paper]([https://arxiv.org/abs/1609.02907](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp))
 2. **Graph Attention Networks**. Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio. ICLR'18. [paper](https://arxiv.org/abs/1710.10903)
 3. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**. NeuIPS'16. [paper](https://arxiv.org/abs/1606.09375)
 4. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank**. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. ICLR'19. [paper](https://arxiv.org/abs/1810.05997) 
@@ -27,18 +27,13 @@ We select the 100+ most influential PEFT papers.
 9. **DeepGCNs: Can GCNs Go as Deep as CNNs?**. Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem. ICCV'19. [paper](https://arxiv.org/abs/1904.03751)
 10. **DropEdge: Towards Deep Graph Convolutional Networks on Node Classificatio**. Yu Rong, Wenbing Huang, Tingyang Xu, Junzhou Huang. ICLR'20. [paper](https://arxiv.org/abs/1907.10903)
 
-### Recent SOTA
+### CV
 
-1. **Training Graph Neural Networks with 1000 Layers**. Guohao Li, Matthias Müller, Bernard Ghanem, Vladlen Koltun. ICML'21. [paper](https://arxiv.org/abs/2106.07476) 
-2. **Graph Random Neural Network for Semi-Supervised Learning on Graphs**. Wenzheng Feng, Jie Zhang, Yuxiao Dong, Yu Han, Huanbo Luan, Qian Xu, Qiang Yang, Evgeny Kharlamov, Jie Tang. NeuIPS'20. [paper](https://arxiv.org/abs/2005.11079)
-3. **Simple and Deep Graph Convolutional Networks**. Ming Chen, Zhewei Wei, Zengfeng Huang, Bolin Ding, Yaliang Li. ICML'20. [paper](https://arxiv.org/abs/2007.02133)
-4. **Combining Label Propagation and Simple Models Out-performs Graph Neural Networks**. Qian Huang, Horace He, Abhay Singh, Ser-Nam Lim, Austin R. Benson. ICLR'21. [paper](https://arxiv.org/abs/2010.13993)
-5. **Graph Attention Multi-Layer Perceptron**. Wentao Zhang, Ziqi Yin, Zeang Sheng, Wen Ouyang, Xiaosen Li, Yangyu Tao, Zhi Yang, Bin Cui. [paper](https://arxiv.org/abs/2108.10097)
-6. **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision**. Dongkwan Kim, Alice Oh. ICLR'21. [paper](https://openreview.net/forum?id=Wi5KUNlqWty)
-7. **Towards Deeper Graph Neural Networks**. Meng Liu, Hongyang Gao, Shuiwang Ji. KDD'20. [paper](https://arxiv.org/abs/2007.09296)
-8. **Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning**. Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Sami Abu-El-Haija, Bryan Perozzi, Greg Ver Steeg, Aram Galstyan. ICLR'21. [paper](https://arxiv.org/abs/2102.04350)
-9. **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing**. Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Nazanin Alipourfard, Kristina Lerman, Hrayr Harutyunyan, Greg Ver Steeg, Aram Galstyan. ICML'19. [paper](https://arxiv.org/abs/1905.00067)
-10. **Diffusion Improves Graph Learning**. Johannes Klicpera, Stefan Weißenberger, Stephan Günnemann. NeuIPS'19. [paper](https://arxiv.org/abs/1911.05485)
+### VLM
+
+### Gragh
+
+
 
 
 ## [Partial](#content)
