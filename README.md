@@ -14,21 +14,13 @@
 <tr><td><a href="#Hybrid">4. Hybrid</a></td></tr>
 
 </table>
-
+<!-- ** **. . '18. [paper]() -->
 ## [Addictive](#content)
 
 ### NLP
 
-1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'19. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
-2. **Graph Attention Networks**. Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio. ICLR'18. [paper](https://arxiv.org/abs/1710.10903)
-3. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**. NeuIPS'16. [paper](https://arxiv.org/abs/1606.09375)
-4. **Predict then Propagate: Graph Neural Networks meet Personalized PageRank**. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. ICLR'19. [paper](https://arxiv.org/abs/1810.05997) 
-5. **Gated Graph Sequence Neural Networks**. Li, Yujia N and Tarlow, Daniel and Brockschmidt, Marc and Zemel, Richard. ICLR'16. [paper](https://arxiv.org/abs/1511.05493)
-6. **Inductive Representation Learning on Large Graphs**. William L. Hamilton, Rex Ying, Jure Leskovec. NeuIPS'17. [paper](https://arxiv.org/abs/1706.02216)
-7. **Deep Graph Infomax**. Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm. ICLR'19. [paper](https://openreview.net/pdf?id=rklz9iAcKQ)
-8. **Representation Learning on Graphs with Jumping Knowledge Networks**. Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka. ICML'18. [paper](https://arxiv.org/abs/1806.03536)
-9. **DeepGCNs: Can GCNs Go as Deep as CNNs?**. Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem. ICCV'19. [paper](https://arxiv.org/abs/1904.03751)
-10. **DropEdge: Towards Deep Graph Convolutional Networks on Node Classificatio**. Yu Rong, Wenbing Huang, Tingyang Xu, Junzhou Huang. ICLR'20. [paper](https://arxiv.org/abs/1907.10903)
+1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby et al. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
+2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang et al. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
 
 ### CV
 
