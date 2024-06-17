@@ -25,13 +25,13 @@
 ### NLP
 
 #### Adapter
-1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby,Andrei Giurgiu,Stanislaw Jastrzebski,Bruna Morrone,Quentin de Laroussilhe,Andrea Gesmundo,Mona Attariyan,Sylvain Gelly. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
-2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang,Madotto Andrea,Fung Pascale. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
-3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. Intelligent Systems In Accounting,
+1. **Parameter-Efficient Transfer Learning for NLP**. *Neil Houlsby,Andrei Giurgiu,Stanislaw Jastrzebski,Bruna Morrone,Quentin de Laroussilhe,Andrea Gesmundo,Mona Attariyan,Sylvain Gelly*. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
+2. **Exploring versatile generative language model via parameter-efficient transfer learning**. *Lin Zhaojiang,Madotto Andrea,Fung Pascale*. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
+3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. *Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian*. Intelligent Systems In Accounting,
  Finance &Management'2020. [paper](https://www.aminer.cn/pub/5eafe7e091e01198d3986542/mad-x-an-adapter-based-framework-for-multi-task-cross-lingual-transfer)
-4. **Counter-Interference Adapter for Multilingual Machine Translation**.Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li.EMNLP'2021.[paper](https://aminer.cn/pub/619799ec91e011c8223730c6/counter-interference-adapter-for-multilingual-machine-translation)
-5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych.EMNLP'2021.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
-6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.Hongyu Zhao, Hao Tan, Hongyuan Mei.EMNLP'2022.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
+4. **Counter-Interference Adapter for Multilingual Machine Translation**.*Yaoming Zhu, Jiangtao Feng, Chengqi Zhao, Mingxuan Wang, Lei Li*.EMNLP'2021.[paper](https://aminer.cn/pub/619799ec91e011c8223730c6/counter-interference-adapter-for-multilingual-machine-translation)
+5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.*Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*.EMNLP'2021.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
+6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.*Hongyu Zhao, Hao Tan, Hongyuan Mei*.EMNLP'2022.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
 7. 
 ### CV
 
