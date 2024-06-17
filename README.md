@@ -33,6 +33,7 @@
 5. **AdapterDrop - On the Efficiency of Adapters in Transformers**.*Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*.**EMNLP'2021**.[paper](https://www.aminer.cn/pub/5f92b9db91e011edb3573b95/adapterdrop-on-the-efficiency-of-adapters-in-transformers)
 6. **Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters**.*Hongyu Zhao, Hao Tan, Hongyuan Mei*.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/636482d890e50fcafdccb0cc/Tiny-Attention%20Adapter:%20Contexts%20Are%20More%20Important%20Than%20the%20Number%20of%20Parameters)
 7. **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks**.*Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/60c2da8091e0117e30ca2817/parameter-efficient-multi-task-fine-tuning-for-transformers-via-shared-hypernetworks)
+8. **BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer**._Marinela Parovic, Goran Glavas, Ivan Vulic, Anna Korhonen_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/634d80f190e50fcafd4ef432/bad-x-bilingual-adapters-improve-zero-shot-cross-lingual-transfer)
 ### CV
 
 ### VLM
