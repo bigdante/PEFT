@@ -11,6 +11,10 @@
 
 **NAACL(North American Chapter of the Association for Computational Linguistics)** 是自然语言处理领域的顶级学术会议之一。该会议涵盖了自然语言处理和计算语言学的各个方面，包括但不限于机器翻译、文本生成、语义分析、语音识别和自然语言理解等领域。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NAACL 被评为 A 级会议。这是最高级别的分类，表示该会议在计算机科学和自然语言处理领域具有很高的学术影响力和声望。
 
+**arXiv** 是一个开放获取的学术预印本平台，涵盖了物理、数学、计算机科学、定量生物学、定量金融和统计学等多个领域的研究论文。arXiv 允许研究人员在正式发表前分享他们的研究成果，以促进学术交流和讨论。尽管 arXiv 上的文章在上传时并未经过正式的同行评审，但许多重要的研究成果首先在 arXiv 上发布，然后才在同行评审的期刊或会议上发表。arXiv 没有特定的 CCF 分类等级。
+
+**NIPS (Neural Information Processing Systems)**，现称为 NeurIPS (Conference on Neural Information Processing Systems)，是机器学习和计算神经科学领域的顶级学术会议之一。该会议自1987年开始举办，涵盖了人工智能、机器学习、统计学、计算神经科学和其他相关领域的前沿研究。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NeurIPS 被评为 A 级会议。这是最高级别的分类，表明该会议在学术界具有很高的影响力和权威性。
+
 ## [Content](#content)
 
 <table>
