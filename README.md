@@ -7,9 +7,9 @@
 
 **EMNLP (Empirical Methods in Natural Language Processing)** 是由国际计算语言学协会 (ACL) 组织的一年一度的顶级会议，主要关注自然语言处理领域的最新研究成果。根据中国计算机学会 (CCF) 的会议分类，EMNLP 被评为 B 级会议。
 
-**Intelligent Systems in Accounting, Finance and Management**是一个专注于会计、金融和管理领域智能系统应用的学术期刊。该期刊发表了许多关于使用人工智能和计算方法解决财务和管理问题的研究论文。根据中国计算机学会 (CCF) 的会议和期刊分类系统，《Intelligent Systems in Accounting, Finance and Management》并未被列入CCF的期刊分类列表。因此，它在CCF的分类系统中没有特定的评级。
+**Intelligent Systems in Accounting, Finance and Management** 是一个专注于会计、金融和管理领域智能系统应用的学术期刊。该期刊发表了许多关于使用人工智能和计算方法解决财务和管理问题的研究论文。根据中国计算机学会 (CCF) 的会议和期刊分类系统，《Intelligent Systems in Accounting, Finance and Management》并未被列入CCF的期刊分类列表。因此，它在CCF的分类系统中没有特定的评级。
 
-**NAACL(North American Chapter of the Association for Computational Linguistics)**是自然语言处理领域的顶级学术会议之一。该会议涵盖了自然语言处理和计算语言学的各个方面，包括但不限于机器翻译、文本生成、语义分析、语音识别和自然语言理解等领域。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NAACL 被评为 A 级会议。这是最高级别的分类，表示该会议在计算机科学和自然语言处理领域具有很高的学术影响力和声望。
+**NAACL(North American Chapter of the Association for Computational Linguistics)** 是自然语言处理领域的顶级学术会议之一。该会议涵盖了自然语言处理和计算语言学的各个方面，包括但不限于机器翻译、文本生成、语义分析、语音识别和自然语言理解等领域。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NAACL 被评为 A 级会议。这是最高级别的分类，表示该会议在计算机科学和自然语言处理领域具有很高的学术影响力和声望。
 
 ## [Content](#content)
 
