@@ -1,6 +1,8 @@
 # PEFT paper lists
 
-We select the 100+ most influential PEFT papers.
+我们选取超过100篇的PEFT相关论文。
+
+**CoRR (Computing Research Repository)** 是一个开放获取的电子预印本服务，主要用于存储和分发计算机科学领域的研究论文。它是 arXiv.org 的一部分，提供一个平台，供计算机科学家在正式发表之前分享他们的研究成果。CoRR 涵盖了计算机科学的各个子领域，包括人工智能、机器学习、计算机视觉、自然语言处理、理论计算机科学等。研究人员可以在 CoRR 上发布他们的论文，以便其他科学家在同行评审之前就能访问和评论这些研究成果。
 
 ## [Content](#content)
 
