@@ -7,6 +7,8 @@
 
 **EMNLP (Empirical Methods in Natural Language Processing)** 是由国际计算语言学协会 (ACL) 组织的一年一度的顶级会议，主要关注自然语言处理领域的最新研究成果。根据中国计算机学会 (CCF) 的会议分类，EMNLP 被评为 B 级会议。
 
+**Intelligent Systems in Accounting, Finance and Management**是一个专注于会计、金融和管理领域智能系统应用的学术期刊。该期刊发表了许多关于使用人工智能和计算方法解决财务和管理问题的研究论文。根据中国计算机学会 (CCF) 的会议和期刊分类系统，《Intelligent Systems in Accounting, Finance and Management》并未被列入CCF的期刊分类列表。因此，它在CCF的分类系统中没有特定的评级。
+
 ## [Content](#content)
 
 <table>
@@ -23,7 +25,7 @@
 
 1. **Parameter-Efficient Transfer Learning for NLP**. Neil Houlsby,Andrei Giurgiu,Stanislaw Jastrzebski,Bruna Morrone,Quentin de Laroussilhe,Andrea Gesmundo,Mona Attariyan,Sylvain Gelly. CoRR'2019. [paper](https://www.aminer.cn/pub/5c61606ae1cd8eae1501e0f5/parameter-efficient-transfer-learning-for-nlp)
 2. **Exploring versatile generative language model via parameter-efficient transfer learning**. Lin Zhaojiang,Madotto Andrea,Fung Pascale. EMNLP'2020. [paper](https://www.aminer.cn/pub/5e8ef2ae91e011679da0f112/exploring-versatile-generative-language-model-via-parameter-efficient-transfer-learning)
-3. 
+3. **MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer**. Pfeiffer Jonas,Vulić Ivan,Gurevych Iryna,Ruder Sebastian. '2020. [paper]()
 ### CV
 
 ### VLM
