@@ -44,7 +44,7 @@
 10. **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks**. _Chin-Lun Fu, Zih-Ching Chen, Yun-Ru Lee, Hung-yi Lee_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/62708f615aee126c0fa69008/adapterbias-parameter-efficient-token-dependent-representation-shift-for-adapters-in-nlp-tasks)
 11. **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**. _Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao_.**arXiv'2022**.[paper](https://www.aminer.cn/pub/6344dede90e50fcafd24d1cc/sparseadapter-an-easy-approach-for-improving-the-parameter-efficiency-of-adapters)
 12. **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning**. _Yi-Lin Sung, Jaemin Cho, Mohit Bansal_. **NIPS'2022**.[paper](https://www.aminer.cn/pub/62a94e065aee126c0f9c02cd/lst-ladder-side-tuning-for-parameter-and-memory-efficient-transfer-learning)
-13. **MerA: Merging Pretrained Adapters For Few-Shot Learning**. _Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao_. **CoRR'2023**. [paper](https://aminer.cn/pub/64f00ff43fda6d7f06ecec7d/mera-merging-pretrained-adapters-for-few-shot-learning)
+13. **MerA: Merging Pretrained Adapters For Few-Shot Learning**. _Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao_. **CoRR'2023**. [paper](https://www.aminer.cn/pub/64f00ff43fda6d7f06ecec7d/mera-merging-pretrained-adapters-for-few-shot-learning)
 
 ### CV
 
