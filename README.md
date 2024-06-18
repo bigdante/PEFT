@@ -57,6 +57,8 @@
 
 #### Prompt Tuning
 1. **Prefix-Tuning: Optimizing Continuous Prompts for Generation**. _Xiang Lisa Li, Percy Liang_. **ACL'2021**. [paper](https://www.aminer.cn/pub/5ff4336291e01130648dc2f4/prefix-tuning-optimizing-continuous-prompts-for-generation)
+2. **The Power of Scale for Parameter-Efficient Prompt Tuning**. _Brian Lester, Rami Al-Rfou’, Noah Constant_. **EMNLP'2021**. [paper](https://www.aminer.cn/pub/607ffd8d91e011772654f712/the-power-of-scale-for-parameter-efficient-prompt-tuning)
+
 
 
 
