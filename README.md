@@ -3,17 +3,23 @@
 我们选取超过100篇的PEFT相关论文。根据PEFT的不同思想，划分为4个模块，Addictive-代表添加了额外参数，Partial-代表在原始模型中选择部分参数，Reparameters-代表重参数方法，Hybrid-代表结合了前面3中方法的混合方法。
 在每个大类中，我们将会具体展开每个更加细粒度的分类，并且介绍这些方法在NLP（Natural Language Processing）、CV(Computer Vision)，VLM(Vison Language Model)和Graph上的应用。
 
-**CoRR (Computing Research Repository)** 是一个开放获取的电子预印本服务，主要用于存储和分发计算机科学领域的研究论文。它是arXiv.org的一部分，提供一个平台，供计算机科学家在正式发表之前分享他们的研究成果。CoRR 涵盖了计算机科学的各个子领域，包括人工智能、机器学习、计算机视觉、自然语言处理、理论计算机科学等。研究人员可以在 CoRR 上发布他们的论文，以便其他科学家在同行评审之前就能访问和评论这些研究成果。
+**NIPS (Neural Information Processing Systems)**，现称为 NeurIPS (Conference on Neural Information Processing Systems)，是机器学习和计算神经科学领域的顶级学术会议之一。该会议自1987年开始举办，涵盖了人工智能、机器学习、统计学、计算神经科学和其他相关领域的前沿研究。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NeurIPS 被评为 A 级会议。这是最高级别的分类，表明该会议在学术界具有很高的影响力和权威性。
 
-**EMNLP (Empirical Methods in Natural Language Processing)** 是由国际计算语言学协会 (ACL) 组织的一年一度的顶级会议，主要关注自然语言处理领域的最新研究成果。根据中国计算机学会 (CCF) 的会议分类，EMNLP 被评为 B 级会议。
-
-**Intelligent Systems in Accounting, Finance and Management** 是一个专注于会计、金融和管理领域智能系统应用的学术期刊。该期刊发表了许多关于使用人工智能和计算方法解决财务和管理问题的研究论文。根据中国计算机学会 (CCF) 的会议和期刊分类系统，《Intelligent Systems in Accounting, Finance and Management》并未被列入CCF的期刊分类列表。因此，它在CCF的分类系统中没有特定的评级。
+**ACL（Annual Meeting of the Association for Computational Linguistics）**，是计算语言学协会年会，是自然语言处理和计算语言学领域的顶级会议之一。ACL会议是计算语言学领域最有影响力的会议之一，被中国计算机学会（CCF）评为A类会议。
 
 **NAACL(North American Chapter of the Association for Computational Linguistics)** 是自然语言处理领域的顶级学术会议之一。该会议涵盖了自然语言处理和计算语言学的各个方面，包括但不限于机器翻译、文本生成、语义分析、语音识别和自然语言理解等领域。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NAACL 被评为 A 级会议。这是最高级别的分类，表示该会议在计算机科学和自然语言处理领域具有很高的学术影响力和声望。
 
+**EMNLP (Empirical Methods in Natural Language Processing)** 是由国际计算语言学协会 (ACL) 组织的一年一度的顶级会议，主要关注自然语言处理领域的最新研究成果。根据中国计算机学会 (CCF) 的会议分类，EMNLP 被评为 B 级会议。
+
+**CIKM (ACM International Conference on Information and Knowledge Management)** 是信息与知识管理领域的国际顶级会议之一。根据中国计算机学会（CCF）的学术会议分类，CIKM 属于 B 类会议。
+
+**Intelligent Systems in Accounting, Finance and Management** 是一个专注于会计、金融和管理领域智能系统应用的学术期刊。该期刊发表了许多关于使用人工智能和计算方法解决财务和管理问题的研究论文。根据中国计算机学会 (CCF) 的会议和期刊分类系统，《Intelligent Systems in Accounting, Finance and Management》并未被列入CCF的期刊分类列表。因此，它在CCF的分类系统中没有特定的评级。
+
+**CoRR (Computing Research Repository)** 是一个开放获取的电子预印本服务，主要用于存储和分发计算机科学领域的研究论文。它是arXiv.org的一部分，提供一个平台，供计算机科学家在正式发表之前分享他们的研究成果。CoRR 涵盖了计算机科学的各个子领域，包括人工智能、机器学习、计算机视觉、自然语言处理、理论计算机科学等。研究人员可以在 CoRR 上发布他们的论文，以便其他科学家在同行评审之前就能访问和评论这些研究成果。
+
 **arXiv** 是一个开放获取的学术预印本平台，涵盖了物理、数学、计算机科学、定量生物学、定量金融和统计学等多个领域的研究论文。arXiv 允许研究人员在正式发表前分享他们的研究成果，以促进学术交流和讨论。尽管 arXiv 上的文章在上传时并未经过正式的同行评审，但许多重要的研究成果首先在 arXiv 上发布，然后才在同行评审的期刊或会议上发表。arXiv 没有特定的 CCF 分类等级。
 
-**NIPS (Neural Information Processing Systems)**，现称为 NeurIPS (Conference on Neural Information Processing Systems)，是机器学习和计算神经科学领域的顶级学术会议之一。该会议自1987年开始举办，涵盖了人工智能、机器学习、统计学、计算神经科学和其他相关领域的前沿研究。根据中国计算机学会 (CCF) 的会议和期刊分类系统，NeurIPS 被评为 A 级会议。这是最高级别的分类，表明该会议在学术界具有很高的影响力和权威性。
+
 
 ## [Content](#content)
 
@@ -43,9 +49,17 @@
 9. **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**. _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/628ef0485aee126c0f82d92e/AdaMix:%20Mixture-of-Adaptations%20for%20Parameter-efficient%20Model%20Tuning)
 10. **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks**. _Chin-Lun Fu, Zih-Ching Chen, Yun-Ru Lee, Hung-yi Lee_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/62708f615aee126c0fa69008/adapterbias-parameter-efficient-token-dependent-representation-shift-for-adapters-in-nlp-tasks)
 11. **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**. _Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao_.**arXiv'2022**.[paper](https://www.aminer.cn/pub/6344dede90e50fcafd24d1cc/sparseadapter-an-easy-approach-for-improving-the-parameter-efficiency-of-adapters)
-12. **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning**. _Yi-Lin Sung, Jaemin Cho, Mohit Bansal_. **NIPS'2022**.[paper](https://www.aminer.cn/pub/62a94e065aee126c0f9c02cd/lst-ladder-side-tuning-for-parameter-and-memory-efficient-transfer-learning)
+12. **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning**. _Yi-Lin Sung, Jaemin Cho, Mohit Bansal_. **NeurIPS'2022**.[paper](https://www.aminer.cn/pub/62a94e065aee126c0f9c02cd/lst-ladder-side-tuning-for-parameter-and-memory-efficient-transfer-learning)
 13. **MerA: Merging Pretrained Adapters For Few-Shot Learning**. _Shwai He, Run-Ze Fan, Liang Ding, Li Shen, Tianyi Zhou, Dacheng Tao_. **CoRR'2023**. [paper](https://www.aminer.cn/pub/64f00ff43fda6d7f06ecec7d/mera-merging-pretrained-adapters-for-few-shot-learning)
 14. **AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models**. _Alexandra Chronopoulou, Matthew E. Peters, Alexander Fraser, Jesse Dodge_. **arXiv'2023**. [paper](https://www.aminer.cn/pub/63ec4dcd90e50fcafd66b158/adaptersoup-weight-averaging-to-improve-generalization-of-pretrained-language-models)
+15. **Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models**. _Yuyan Chen, Qiang Fu, Ge Fan, Lun Du, Jian-Guang Lou, Shi Han, Dongmei Zhang, Zhixu Li, Yanghua_. **CIKM'2023**. [paper](https://www.aminer.cn/pub/65360d69939a5f4082b0a4b3/hadamard-adapter-an-extreme-parameter-efficient-adapter-tuning-method-for-pre-trained)
+16. **Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference**. _Tao Lei, Junwen Bai, Siddhartha Brahma, Joshua Ainslie, Kenton Lee, Yanqi Zhou, Nan Du, Vincent Y. Zhao, Yuexin Wu, Bo Li, Yu Zhang, Ming-Wei Chang_. **NeurIPS'2023**. [paper](https://www.aminer.cn/pub/643621a190e50fcafd665e94/conditional-adapters-parameter-efficient-transfer-learning-with-fast-inference)
+
+#### Prompt Tuning
+1. **Prefix-Tuning: Optimizing Continuous Prompts for Generation**. _Xiang Lisa Li, Percy Liang_. **ACL'2021**. [paper](https://www.aminer.cn/pub/5ff4336291e01130648dc2f4/prefix-tuning-optimizing-continuous-prompts-for-generation)
+
+
+
 
 
 ### CV
