@@ -43,6 +43,7 @@
 9. **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**. _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_.**EMNLP'2022**.[paper](https://www.aminer.cn/pub/628ef0485aee126c0f82d92e/AdaMix:%20Mixture-of-Adaptations%20for%20Parameter-efficient%20Model%20Tuning)
 10. **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks**. _Chin-Lun Fu, Zih-Ching Chen, Yun-Ru Lee, Hung-yi Lee_.**NAACL'2022**.[paper](https://www.aminer.cn/pub/62708f615aee126c0fa69008/adapterbias-parameter-efficient-token-dependent-representation-shift-for-adapters-in-nlp-tasks)
 11. **SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters**. _Shwai He, Liang Ding, Daize Dong, Miao Zhang, Dacheng Tao_.**arXiv'2022**.[paper](https://www.aminer.cn/pub/6344dede90e50fcafd24d1cc/sparseadapter-an-easy-approach-for-improving-the-parameter-efficiency-of-adapters)
+12. **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning**. _Yi-Lin Sung, Jaemin Cho, Mohit Bansal_. **NIPS'2022**.[paper](https://www.aminer.cn/pub/62a94e065aee126c0f9c02cd/lst-ladder-side-tuning-for-parameter-and-memory-efficient-transfer-learning)
 ### CV
 
 ### VLM
